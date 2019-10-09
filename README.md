@@ -1,2 +1,2 @@
 # zookeeper
-Install zookeeper from apache or confluent
+Ansible zookeeper from apache or confluent
